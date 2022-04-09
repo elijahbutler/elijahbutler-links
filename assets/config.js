@@ -1,47 +1,32 @@
 let config = {
-  "Title": "Your Name - Links",
-  "Name": "Your Name",
-  "Description": "Your Description",
+  "Title": "Elijah Butler's Links",
+  "Name": "Elijah Butler",
+  "Description": "",
   "links": [
     {
       "Title": "Website",
-      "URL": "http://www.harindu.dev",
+      "URL": "http://www.elijahbutler.com",
       "icon_classes": "fas fa-link",
     },
     {
-      "Title": "Github",
-      "URL": "https://github.com/harindulk",
-      "icon_classes": "fab fa-github",
-    },
-    {
-      "Title": "Play Store",
-      "URL": "https://play.google.com/store/apps/dev?id=6729187126243636577",
-      "icon_classes": "fab fa-google-play"
-    },
-    {
-      "Title": "PC Games",
-      "URL": "https://harindulk.itch.io/",
-      "icon_classes": "fab fa-itch-io"
-    },
-    {
-      "Title": "Blog",
-      "URL": "blog-test",
-      "icon_classes": "fas fa-blog"
+      "Title": "Instagram",
+      "URL": "https://instagram.com/byelijahbutler",
+      "icon_classes": "fab fa-instagram"
     },
     {
       "Title": "Twitter",
-      "URL": "https://twitter.com/Harindu_Fonseka",
+      "URL": "https://twitter.com/byelijahbutler",
       "icon_classes": "fab fa-twitter"
     },
     {
-      "Title": "LinkedIn",
-      "URL": "https://www.linkedin.com/in/harindulk/",
-      "icon_classes": "fab fa-linkedin"
+      "Title": "YouTube",
+      "URL": "https://www.youtube.com/user/elibutler13",
+      "icon_classes": "fab fa-youtube"
     },
     {
-      "Title": "Youtube",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
-      "icon_classes": "fab fa-youtube"
+      "Title": "LinkedIn",
+      "URL": "https://www.linkedin.com/in/elijah-butler/",
+      "icon_classes": "fab fa-linkedin"
     },
   ]
 }
