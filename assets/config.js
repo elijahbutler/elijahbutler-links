@@ -19,8 +19,13 @@ let config = {
       "icon_classes": "fab fa-twitter"
     },
     {
-      "Title": "YouTube",
+      "Title": "YouTube Channel",
       "URL": "https://www.youtube.com/user/elibutler13",
+      "icon_classes": "fab fa-youtube"
+    },
+    {
+      "Title": "FPV YouTube",
+      "URL": "https://youtu.be/8J1DN3-kpc8",
       "icon_classes": "fab fa-youtube"
     },
     {
